@@ -3759,6 +3759,13 @@ input, select, textarea {
 
 		}
 
+/* Projects Header */
+
+	.projects-header {
+		margin: 0 auto;
+		text-align: center;
+	}
+
 /* Main */
 
 	#main {
